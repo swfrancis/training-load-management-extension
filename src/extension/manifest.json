@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Training Load Management",
+    "version": "1.0",
+    "description": "An extension to manage training load effectively.",
+    "actions": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "storage",
+        "activeTab"
+    ]
+}
