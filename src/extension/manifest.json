@@ -3,7 +3,7 @@
     "name": "Training Load Management",
     "version": "1.0",
     "description": "An extension to manage training load effectively.",
-    "actions": {
+    "action": {
         "default_popup": "popup.html"
     },
     "permissions": [
